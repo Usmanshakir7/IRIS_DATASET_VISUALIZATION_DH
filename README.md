@@ -9,7 +9,9 @@ Understand how to read, summarize, and visualize a dataset.
 ● Create basic visualizations:
 
 ○ Scatter plot to analyze relationships between variables.
+
 ○ Histogram to examine data distribution.
+
 ○ Box plot to detect outliers and spread of values.s
 
 ## Results and Insights
